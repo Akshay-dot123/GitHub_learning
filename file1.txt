@@ -1,5 +1,4 @@
-conflict line
-again master branch change....
-something something
+New conflict dude
+2nd time adding content
 other thing fixed
 master branch change
